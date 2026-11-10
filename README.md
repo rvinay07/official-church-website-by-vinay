@@ -32,6 +32,7 @@ Official web application of **Agape Assemblies of God (A.G.) Church, Guntakal, A
 - **40-Year Church History & Photo Archive**: High-resolution gallery documenting church milestones from 1985 to present.
 - **Online Prayer Request Submission**: Route prayer needs directly to pastoral care via WhatsApp or Email with privacy options.
 - **Online Tithes & Giving Portal**: UPI ID, QR code, and verified bank transfer details.
+- **Media Ministry & Volunteer Portal**: Encouraging believers and youth to serve the Lord with their God-given talents across live sound mixing, camera operation, song projection, video editing, and photography.
 - **Digital Media & Broadcast Hub**: Embedded YouTube sermons, choir worship, and live streams.
 - **Fully Responsive & Accessible**: Optimized for mobile phones, tablets, and desktops.
 
@@ -58,8 +59,8 @@ Official web application of **Agape Assemblies of God (A.G.) Church, Guntakal, A
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/<your-username>/agape-ag-church-guntakal.git
-cd "church web antigravity"
+git clone https://github.com/rvinay07/official-church-website-by-vinay.git
+cd official-church-website-by-vinay
 
 # 2. Install dependencies
 npm install
