@@ -137,7 +137,7 @@ export default function MediaView({
 
               {/* Biblical Scripture Inspiration */}
               <div className="pt-1 flex items-start gap-2 text-stone-600 text-xs italic font-serif">
-                <span>&ldquo;Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace.&rdquo; &mdash; 1 Peter 4:10</span>
+                <span>&ldquo;Each of you should use whatever God-given talent you have received to serve others, as faithful stewards of God’s grace.&rdquo; &mdash; 1 Peter 4:10</span>
               </div>
             </div>
 
