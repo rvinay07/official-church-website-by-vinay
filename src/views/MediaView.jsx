@@ -99,7 +99,7 @@ export default function MediaView({
               </div>
 
               <h2 className="font-serif text-2xl sm:text-3xl md:text-4xl font-bold text-charcoal leading-tight">
-                Use Your Gifts in Sound, Video &amp; Live Broadcast
+                Use Your God-Given Talents in Sound, Video &amp; Live Broadcast
               </h2>
 
               <p className="text-stone-700 text-xs sm:text-sm md:text-base leading-relaxed">
